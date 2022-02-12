@@ -1,0 +1,92 @@
+.log-img{
+    width: 80px;
+}
+.main-menu ul li a{
+    font-size: 22px;
+}
+
+.banner-section{
+    background-color:#f9f9ff ;
+}
+.z-btn{
+    background-color: #8490ff;
+}
+
+.bennae-contant{
+    margin-top: 150px;
+}
+img{
+    max-width: 100%;
+}
+.user-section{
+    padding: 50px 0;
+    background-color: #8490ff;
+    color: #fff;
+}
+
+.user-section h1{
+    font-weight: 700;
+}/* .card-section */
+.card-section span{
+    width: 70px;
+    height: 70px;
+     border-radius: 50%;
+     font-size: 40px;
+    
+     margin: auto;
+  }
+  .card-section {
+      background-color: #f9f9ff;
+  }
+  .my-caed{
+      border: none;
+     
+  }
+  .card02 p{
+      font-size: 12px;
+  }
+  .card02 .my-shadow{
+      box-shadow: 4px 4px 10px #8490ff;
+  }
+  .card02 h4{
+      font-size: 20px;
+      font-weight: 600;
+  }
+  .card02 h6{
+      font-size: 16px;
+      color: black;
+  }
+  .w-20{
+      width: 80px;
+    position: absolute;
+    left: 10px;
+    top: -40px;
+  }
+     
+
+ .my-caed{
+     position: relative;
+ } 
+ .card02{
+    padding-top: 100px; 
+    padding-bottom: 50px;
+ }
+  
+ .contact-section{
+     background-color: #f9f9ff;
+ }
+ .contact-form{
+     background: #fff;
+     padding: 30px;
+     margin-top: 40px;
+ }
+ .contact-us{
+     margin-top: 
+     200px;
+ }
+ .footer{
+     color: #fff;
+     text-align: center;
+     padding: 5px 0;
+     background-color: black;
+ }
